@@ -1,18 +1,25 @@
 {
-    "name": "nickdekruijk/forge-redirect",
-    "description": "Redirect all traffic with Laravel Forge",
-    "license": "MIT",
-    "keywords": [ "larvel", "forge", "redirect", "php", "301", "302" ],
-    "homepage": "http://www.nickdekruijk.nl/packages/forge-redirect",
-    "authors": [
-        {
-            "name": "Nick de Kruijk",
-            "email": "git@nickdekruijk.nl"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": "^7.1.3 || ^8.0",
-        "vlucas/phpdotenv": "^5.0"
+  "name": "nickdekruijk/forge-redirect",
+  "description": "Redirect all traffic with Laravel Forge",
+  "license": "MIT",
+  "keywords": [
+    "larvel",
+    "forge",
+    "redirect",
+    "php",
+    "301",
+    "302"
+  ],
+  "homepage": "http://www.nickdekruijk.nl/packages/forge-redirect",
+  "authors": [
+    {
+      "name": "Nick de Kruijk",
+      "email": "git@nickdekruijk.nl"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.1.3 || ^8.0",
+    "vlucas/phpdotenv": "^5.0"
+  }
 }
